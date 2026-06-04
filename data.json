@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-06-04T22:51:29.319Z",
+  "updatedAt": "2026-06-04T22:51:34.441Z",
   "people": [
     {
       "id": "p_mq03aeqx6oto2",
@@ -33,6 +33,8 @@
       "createdAt": 1780613488318
     }
   ],
-  "dinners": {},
+  "dinners": {
+    "2026-06-05": "Milly Pizza"
+  },
   "votes": {}
 }
