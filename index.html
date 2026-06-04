@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Family Dinners — Weekly Planner</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header class="app-header">
+    <div class="app-title">
+      <h1>Family Dinners</h1>
+      <p id="setup-banner" class="setup-banner" hidden>
+        Not connected to GitHub yet — open <a href="#" id="setup-link">Settings</a> to set up sharing.
+      </p>
+    </div>
+    <div class="user-bar">
+      <span id="sync-status" class="sync-status sync-status--loading" title="Click to refresh">
+        <span class="dot" aria-hidden="true"></span>
+        <span class="label">Loading…</span>
+      </span>
+      <button type="button" id="refresh-btn" class="btn btn-ghost" title="Refresh from GitHub">↻ Refresh</button>
+      <label for="current-user">You are:</label>
+      <select id="current-user" aria-label="Select your name"></select>
+      <button type="button" id="add-person-btn" class="btn">+ Add person</button>
+      <button type="button" id="manage-people-btn" class="btn btn-ghost">Manage people</button>
+      <button type="button" id="settings-btn" class="btn btn-ghost" title="Settings">⚙ Settings</button>
+    </div>
+  </header>
+
+  <section class="week-nav">
+    <button type="button" id="prev-week" class="btn">← Previous</button>
+    <h2 id="week-label">This week</h2>
+    <button type="button" id="next-week" class="btn">Next →</button>
+    <button type="button" id="today-btn" class="btn btn-ghost">Today</button>
+  </section>
+
+  <main id="week-grid" class="week-grid" aria-label="Weekly dinner planner">
+    <!-- Day columns are rendered by app.js -->
+  </main>
+
+  <footer class="app-footer">
+    <p>Data is shared via a <code>data.json</code> file in the GitHub repo. Refresh to see others' updates.</p>
+  </footer>
+
+  <!-- Modal: add / manage people / settings -->
+  <div id="modal" class="modal" hidden aria-hidden="true" role="dialog" aria-modal="true" aria-labelledby="modal-title">
+    <div class="modal-card">
+      <h3 id="modal-title">Add a person</h3>
+      <div id="modal-body"></div>
+      <div class="modal-actions">
+        <button type="button" id="modal-cancel" class="btn btn-ghost">Close</button>
+      </div>
+    </div>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>
