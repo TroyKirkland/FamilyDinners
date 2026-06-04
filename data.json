@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-06-04T22:52:19.294Z",
+  "updatedAt": "2026-06-04T22:52:28.543Z",
   "people": [
     {
       "id": "p_mq03aeqx6oto2",
@@ -39,7 +39,8 @@
     "2026-06-07": "Bao",
     "2026-06-08": "Korean Chicken",
     "2026-06-09": "Sausages",
-    "2026-06-10": "Yatala Pie"
+    "2026-06-10": "Yatala Pie",
+    "2026-06-11": "Honey Sesame Beef"
   },
   "votes": {}
 }
