@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-06-04T22:51:20.886Z",
+  "updatedAt": "2026-06-04T22:51:24.319Z",
   "people": [
     {
       "id": "p_mq03aeqx6oto2",
@@ -16,6 +16,11 @@
       "id": "p_mq03ai8d1wkuj",
       "name": "Douglas",
       "createdAt": 1780613479885
+    },
+    {
+      "id": "p_mq03akvr3jr9c",
+      "name": "Ananda",
+      "createdAt": 1780613483319
     }
   ],
   "dinners": {},
