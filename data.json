@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-06-04T22:51:45.793Z",
+  "updatedAt": "2026-06-04T22:52:05.432Z",
   "people": [
     {
       "id": "p_mq03aeqx6oto2",
@@ -36,7 +36,8 @@
   "dinners": {
     "2026-06-05": "Milly Pizza",
     "2026-06-06": "Nachos",
-    "2026-06-07": "Bao"
+    "2026-06-07": "Bao",
+    "2026-06-08": "Korean Chicken"
   },
   "votes": {}
 }
