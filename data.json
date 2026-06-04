@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-06-04T22:52:28.543Z",
+  "updatedAt": "2026-06-04T22:52:32.058Z",
   "people": [
     {
       "id": "p_mq03aeqx6oto2",
@@ -42,5 +42,7 @@
     "2026-06-10": "Yatala Pie",
     "2026-06-11": "Honey Sesame Beef"
   },
-  "votes": {}
+  "votes": {
+    "2026-06-08|p_mq03aeqx6oto2": true
+  }
 }
