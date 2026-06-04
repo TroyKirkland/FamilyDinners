@@ -1,11 +1,16 @@
 {
   "schema": 1,
-  "updatedAt": "2026-06-04T22:51:16.372Z",
+  "updatedAt": "2026-06-04T22:51:18.451Z",
   "people": [
     {
       "id": "p_mq03aeqx6oto2",
       "name": "Troy",
       "createdAt": 1780613475369
+    },
+    {
+      "id": "p_mq03agcr1n8x1",
+      "name": "Emma",
+      "createdAt": 1780613477451
     }
   ],
   "dinners": {},
