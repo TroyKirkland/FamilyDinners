@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-06-04T22:51:34.441Z",
+  "updatedAt": "2026-06-04T22:51:42.062Z",
   "people": [
     {
       "id": "p_mq03aeqx6oto2",
@@ -34,7 +34,8 @@
     }
   ],
   "dinners": {
-    "2026-06-05": "Milly Pizza"
+    "2026-06-05": "Milly Pizza",
+    "2026-06-06": "Nachos"
   },
   "votes": {}
 }
