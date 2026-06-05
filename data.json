@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-06-05T01:52:56.496Z",
+  "updatedAt": "2026-06-05T02:47:11.581Z",
   "people": [
     {
       "id": "p_mq03aeqx6oto2",
@@ -40,7 +40,8 @@
     "2026-06-08": "Korean Chicken",
     "2026-06-09": "Sausages",
     "2026-06-10": "Yatala Pie",
-    "2026-06-11": "Honey Sesame Beef"
+    "2026-06-11": "Honey Sesame Beef",
+    "2026-06-04": "Steak"
   },
   "votes": {
     "2026-06-08|p_mq03aeqx6oto2": true,
