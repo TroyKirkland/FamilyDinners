@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-06-05T02:47:13.957Z",
+  "updatedAt": "2026-06-05T02:47:14.903Z",
   "people": [
     {
       "id": "p_mq03aeqx6oto2",
@@ -54,6 +54,7 @@
     "2026-06-05|p_mq03aoqmbkubc": true,
     "2026-06-04|p_mq03aeqx6oto2": true,
     "2026-06-04|p_mq03agcr1n8x1": true,
-    "2026-06-04|p_mq03ai8d1wkuj": true
+    "2026-06-04|p_mq03ai8d1wkuj": true,
+    "2026-06-04|p_mq03akvr3jr9c": true
   }
 }
