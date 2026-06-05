@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-06-05T02:47:11.581Z",
+  "updatedAt": "2026-06-05T02:47:13.957Z",
   "people": [
     {
       "id": "p_mq03aeqx6oto2",
@@ -51,6 +51,9 @@
     "2026-06-06|p_mq03aeqx6oto2": true,
     "2026-06-07|p_mq03aeqx6oto2": true,
     "2026-06-08|p_mq03agcr1n8x1": true,
-    "2026-06-05|p_mq03aoqmbkubc": true
+    "2026-06-05|p_mq03aoqmbkubc": true,
+    "2026-06-04|p_mq03aeqx6oto2": true,
+    "2026-06-04|p_mq03agcr1n8x1": true,
+    "2026-06-04|p_mq03ai8d1wkuj": true
   }
 }
